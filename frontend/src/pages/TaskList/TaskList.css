@@ -1,0 +1,39 @@
+.list-container {
+    width: 40%;
+    height: auto;
+
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    
+}
+
+.list-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.task-item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border-color: azure 1px;
+}
+
+.badge{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    margin: 5px 5px 0 5px;
+}
+.task-button{
+    margin: 0;
+}

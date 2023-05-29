@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "comprar almuerzo",
+      "description": "Ir a comer a casa",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Pasear a los perros",
+      "description": "Pasear a los perros",
+      "completed": false
+    },
+    {
+      "name": "Tarea Para editar",
+      "description": "editame!!!!",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}

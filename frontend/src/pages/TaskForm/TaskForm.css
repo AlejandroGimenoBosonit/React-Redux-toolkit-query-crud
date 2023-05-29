@@ -1,0 +1,23 @@
+
+.card-container{
+    color: black;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input , textarea{
+    
+    margin: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
